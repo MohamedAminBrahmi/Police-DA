@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project aims to analyze a dataset related to police activities to uncover insights about law enforcement practices, crime patterns, and factors influencing public safety. The dataset includes various attributes such as stop_date ,stop_time ,country_name ,violation  ... By applying data analysis techniques and visualization tools, we will explore trends in crime rates, demographics of offenders, effectiveness of policing strategies, and geographical patterns of criminal activities.
+This project aims to analyze a dataset related to police activities to uncover insights about law enforcement practices, crime patterns, and factors influencing public safety. The dataset includes various attributes such as stop_date ,stop_time ,country_name ,violation  ... By applying data analysis techniques and visualization tools, we will explore trends in crime rates and geographical patterns of criminal activities.
 <br />
 
 
