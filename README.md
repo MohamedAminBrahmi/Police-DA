@@ -14,7 +14,7 @@ This project aims to analyze a dataset related to police activities to uncover i
 </ul>
 
 <h2>Data Sources</h2>
-<p>The primary data source for this project is a weather dataset containing:</p>
+<p>The primary data source for this project is a Police dataset containing:</p>
 <ul>
     <li><b>stop_date</b></li>
     <li><b>stop_time</b></li>
